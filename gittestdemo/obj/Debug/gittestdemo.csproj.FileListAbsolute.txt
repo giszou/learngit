@@ -1,0 +1,7 @@
+D:\LearnGit\GitTestProject\gittestdemo\bin\Debug\gittestdemo.exe.config
+D:\LearnGit\GitTestProject\gittestdemo\bin\Debug\gittestdemo.exe
+D:\LearnGit\GitTestProject\gittestdemo\bin\Debug\gittestdemo.pdb
+D:\LearnGit\GitTestProject\gittestdemo\obj\Debug\gittestdemo.csprojAssemblyReference.cache
+D:\LearnGit\GitTestProject\gittestdemo\obj\Debug\gittestdemo.csproj.CoreCompileInputs.cache
+D:\LearnGit\GitTestProject\gittestdemo\obj\Debug\gittestdemo.exe
+D:\LearnGit\GitTestProject\gittestdemo\obj\Debug\gittestdemo.pdb
