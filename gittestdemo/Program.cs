@@ -11,6 +11,10 @@ namespace gittestdemo
         static void Main(string[] args)
         {
             Console.WriteLine("hello world!");
+            List<string> names = new List<string>();
+            names.Add("abc");
+            names.Add("def");
+            Console.WriteLine(names.ToString());
             Console.ReadKey();
         }
     }
